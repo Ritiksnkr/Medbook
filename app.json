@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "medbook",
+    "slug": "medbook",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "medbook"
+}
